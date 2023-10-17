@@ -5,9 +5,10 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 1/01-printing-hello-world/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/01-introducing-strings/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/02-python-input-function/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/03-starting-variables/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/04-more-string-manipulations/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/05-basic-string-methods/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/04-starting-variables/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (Everyday Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
