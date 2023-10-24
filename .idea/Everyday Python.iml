@@ -9,6 +9,11 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/05-basic-string-methods/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/04-starting-variables/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/05-[ICE]-variables/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 2/08-[ICE]-string-manipulations-methods/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 1/02-[ICE]-printing/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 3/01-primitive-data-types/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 3/02-type-errors-checking-conversions/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (Everyday Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
