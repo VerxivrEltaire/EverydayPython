@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="941b0c23-c95f-45f8-8b8c-099de03e2ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/01-defining-functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-defining-functions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/02-default-argument-values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-default-argument-values/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/03-positional-keyword-arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-positional-keyword-arguments/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/04-special-parameters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-special-parameters/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/05-arbitrary-argument-list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-arbitrary-argument-list/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/06-argument-unpacking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-argument-unpacking/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/07-lambda-expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lambda-expressions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/08-docstrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-docstrings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/Everyday Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/Everyday Python.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2Xwun4Trk7YaL3S5PLnLXQXC6BT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="09-function-annotations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="941b0c23-c95f-45f8-8b8c-099de03e2ade" name="Changes" comment="" />
+      <created>1699552626997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699552626997</updated>
+      <workItem from="1699552629779" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

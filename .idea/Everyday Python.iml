@@ -16,6 +16,23 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 3/02-type-errors-checking-conversions/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/04-[ICE]-lists/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/05-for-statement/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/08-match-statement/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/09-[ICE]-loops/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/01-defining-functions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/02-default-argument-values/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/03-positional-keyword-arguments/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/04-special-parameters/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/05-arbitrary-argument-list/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/06-argument-unpacking/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/07-lambda-expressions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/08-docstrings/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/09-function-annotations/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/01-deeper-with-lists/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/02-using-lists-stack/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/03-using-lists-queue/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/04-list-comprehension/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/05-del-statement/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/06-tuples-sequences/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (Everyday Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
