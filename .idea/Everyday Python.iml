@@ -33,6 +33,18 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/04-list-comprehension/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/05-del-statement/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/06-tuples-sequences/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/07-utilizing-sets/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/08-understanding-dictionaries/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/09-looping-techniques/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/10-further-conditions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 6/11-sequence-comparison/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 7/01-understanding-modules/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 7/02-modules-as-scripts/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 7/03-module-search-path/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 7/04-built-in-modules/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 7/05-dir-function/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 8/01-reading-writing-files/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 8/02-file-objects-methods/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (Everyday Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

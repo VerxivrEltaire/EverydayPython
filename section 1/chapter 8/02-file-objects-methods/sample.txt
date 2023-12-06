@@ -1,0 +1,14 @@
+This is a sample file
+It is being used to test
+all the methods and functionalities
+of the file object methods
+A new section begins.
+A new section begins.
+The adventure unfolds.
+In the realm of Python.
+A new section begins.
+The adventure unfolds.
+In the realm of Python.
+A new section begins.
+The adventure unfolds.
+In the realm of Python.
