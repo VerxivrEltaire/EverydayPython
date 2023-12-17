@@ -45,8 +45,18 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 7/05-dir-function/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 8/01-reading-writing-files/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 8/02-file-objects-methods/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 8/03-json-data/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/01-syntax-errors/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/02-exceptions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/03-raising-exceptions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/04-exception-chaining/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/05-custom-exceptions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/06-cleanup-actions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/07-unrelated-exceptions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/08-adding-notes-to-exceptions/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/01-defining-classes-objects/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (Everyday Python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

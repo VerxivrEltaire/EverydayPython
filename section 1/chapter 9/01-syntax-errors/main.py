@@ -1,16 +1,26 @@
-# This is a sample Python script.
+# Syntax errors
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# Unclosed quotes
+# message = 'Hello, Python learners"
 
+# Mismatched parentheses
+# result = (5 + 3 * (7 - 2)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+# Incorrect indentation
+# def greet():
+# print('Hello, World!')
 
+# Invalid variable names
+# 1st_number = 10
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+# Incomplete statements
+# x = 5 +
+#    y = 3
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#Missing colons in control structures
+# if x > 5
+#     print('x is greater than 5')
+
+# Misplaced operators
+# result = 10
+#     - 5
