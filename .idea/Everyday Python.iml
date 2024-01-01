@@ -16,8 +16,6 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 3/02-type-errors-checking-conversions/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/04-[ICE]-lists/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/05-for-statement/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/08-match-statement/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/09-[ICE]-loops/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/01-defining-functions/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/02-default-argument-values/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/03-positional-keyword-arguments/venv" />
@@ -55,6 +53,31 @@
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/07-unrelated-exceptions/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 9/08-adding-notes-to-exceptions/venv" />
       <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/01-defining-classes-objects/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/02-inheritance/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/03-encapsulation/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/04-polymorphism/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/05-dataclasses/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/06-iterator/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 10/07-generator/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/07-while-loop/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/09-match-statement/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 4/10-[ICE]-loops/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 8/04-working-with-csv/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/10-higher-order-functions/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/01-getting-started-tkinter/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/02-first-tkinter-window/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/03-other-tkinter-widgets/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/04-frames/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/05-geometry-managers/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/06-responsive-layout/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/07-canvas-widget/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/08-event-handling/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/09-user-input-validation/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/10-dialogs-popups/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/11-[ICE]-function-parameters-defaults/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 1/chapter 5/12-[ICE]-higher-order-fuctions-lambda/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 11/11-class-based-tkinter-ui/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/section 2/chapter 12/01-time-management-app/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

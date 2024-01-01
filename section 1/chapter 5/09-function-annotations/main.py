@@ -1,10 +1,10 @@
 # Basic function annotation
-def add(x: int, y: int) -> int:
-    return x + y
+def add(w: int, v: int) -> int:
+    return w + v
 
 # Function annotations for clarity
-def calculate_area(length: float, width: float) -> float:
-    return length * width
+def cal_area(lth: float, wth: float) -> float:
+    return lth * wth
 
 # Complex function annotations
 from typing import List

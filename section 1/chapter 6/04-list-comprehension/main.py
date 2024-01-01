@@ -50,10 +50,6 @@ print(filtered_list)  # Output: [2, 3, 0, 3, 5]
 applied_list = [abs(num) for num in base_list]
 print(applied_list)  # Output: [2, 3, 1, 0, 3, 5]
 
-# apply a function to all the elements
-applied_list = [abs(num) for num in base_list]
-print(applied_list)  # Output: [2, 3, 1, 0, 3, 5]
-
 fruit_list = [' banana ', ' apple ', ' lemon ', ' grape ']
 
 # call a method on each element

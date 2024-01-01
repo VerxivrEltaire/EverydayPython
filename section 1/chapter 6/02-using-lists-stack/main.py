@@ -18,7 +18,7 @@ stack = ['Orange', 'Grapes', 'Mango']
 
 # Peeking at the top element
 top_element = stack[-1]
-print('Top Element:', top_element)
+print('Top element:', top_element)  # Output: Top element: Mango
 print(stack)  # Output: ['Orange', 'Grapes', 'Mango']
 
 # Checking if the stack is empty

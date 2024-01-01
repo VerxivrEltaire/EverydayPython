@@ -1,7 +1,7 @@
 # The append method
-numbers = [1, 2, 3]
-numbers.append(4)
-print(numbers)  # Output: [1, 2, 3, 4]
+numbrs = [3, 2, 1]
+numbrs.append(5)
+print(numbrs)  # Output: [3, 2, 1, 5]
 
 # The extend method
 first_list = [10, 20]
@@ -35,13 +35,13 @@ data.clear()
 print(data)  # Output: []
 
 # The index method
-numbers = [20, 10, 30, 10, 40]
-position = numbers.index(10)
+numbrs = [20, 10, 30, 10, 40]
+position = numbrs.index(10)
 print(position)  # Output: 1
 
 # The index method with start and stop values
-numbers = [20, 10, 30, 10, 40]
-position = numbers.index(10, 2, 4)
+numbrs = [20, 10, 30, 10, 40]
+position = numbrs.index(10, 2, 4)
 print(position)  # Output: 3
 
 # The count method
